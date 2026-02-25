@@ -1,6 +1,6 @@
 # F1 Podium Prediction Model
 
-Predicts F1 podium finishes using XGBoost.
+Predicts F1 podium finishers using XGBoost.
 
 ## Setup
 
